@@ -1,6 +1,6 @@
 name: otel_clerk
 description: OpenTelemetry instrumentation for Clerk authentication operations. CLIENT spans per auth call with clerk.* attrs plus user.id propagation.
-version: 0.1.0-beta.2-wip
+version: 0.1.0-beta.2
 repository: https://github.com/dartastic/otel_clerk
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
